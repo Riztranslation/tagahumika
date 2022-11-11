@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tagahumika/static/css/main.3ce845bf.css",
-    "main.js": "/tagahumika/static/js/main.bfbc214d.js",
+    "main.js": "/tagahumika/static/js/main.2c9a038a.js",
     "static/js/787.b701888c.chunk.js": "/tagahumika/static/js/787.b701888c.chunk.js",
     "index.html": "/tagahumika/index.html",
     "main.3ce845bf.css.map": "/tagahumika/static/css/main.3ce845bf.css.map",
-    "main.bfbc214d.js.map": "/tagahumika/static/js/main.bfbc214d.js.map",
+    "main.2c9a038a.js.map": "/tagahumika/static/js/main.2c9a038a.js.map",
     "787.b701888c.chunk.js.map": "/tagahumika/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce845bf.css",
-    "static/js/main.bfbc214d.js"
+    "static/js/main.2c9a038a.js"
   ]
 }
