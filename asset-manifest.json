@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test-react/static/css/main.59611b4f.css",
-    "main.js": "/test-react/static/js/main.296ee52c.js",
-    "static/js/787.b701888c.chunk.js": "/test-react/static/js/787.b701888c.chunk.js",
-    "index.html": "/test-react/index.html",
-    "main.59611b4f.css.map": "/test-react/static/css/main.59611b4f.css.map",
-    "main.296ee52c.js.map": "/test-react/static/js/main.296ee52c.js.map",
-    "787.b701888c.chunk.js.map": "/test-react/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/tagahumika/static/css/main.59611b4f.css",
+    "main.js": "/tagahumika/static/js/main.ffafcde7.js",
+    "static/js/787.b701888c.chunk.js": "/tagahumika/static/js/787.b701888c.chunk.js",
+    "index.html": "/tagahumika/index.html",
+    "main.59611b4f.css.map": "/tagahumika/static/css/main.59611b4f.css.map",
+    "main.ffafcde7.js.map": "/tagahumika/static/js/main.ffafcde7.js.map",
+    "787.b701888c.chunk.js.map": "/tagahumika/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59611b4f.css",
-    "static/js/main.296ee52c.js"
+    "static/js/main.ffafcde7.js"
   ]
 }
