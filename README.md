@@ -1,2 +1,0 @@
-# tagahumika
-Halaman manga tagahumika
